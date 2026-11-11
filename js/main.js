@@ -44,8 +44,7 @@ function pintarCards(lista) {
     art.classList.add("tarjeta");
     art.innerHTML = `
     <img src="${s.img}" alt="${s.titulo}">
-    <h3>${s.titulo}</h3>
-    <p>₡${s.precio}</p>`;
+    <h3>${s.titulo}</h3>`;
     contenedor.appendChild(art);
     });
 }
