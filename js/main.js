@@ -28,6 +28,7 @@ titulos.forEach(titulo => {
 });
 
 const servicios = [
+
     { titulo: "Anillos", img: "img/Anillos2.jpg" },
     { titulo: "Collares y Cadenas",  img: "img/Collares2.jpg" },
     { titulo: "Accesorios", img: "img/PulseraYpendientes2.jpg" }
