@@ -30,7 +30,7 @@ titulos.forEach(titulo => {
 const servicios = [
 
     { titulo: "Anillos", img: "img/Anillos2.jpg" },
-    { titulo: "Collares y Cadenas",  img: "img/Collares2.jpg" },
+    { titulo: "Collares y Cadenas",  img: "img/Collar2.jpg" },
     { titulo: "Accesorios", img: "img/PulseraYpendientes2.jpg" }
   // agrega más objetos hasta tener las seis tarjetas
 ];
