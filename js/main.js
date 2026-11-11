@@ -28,9 +28,9 @@ titulos.forEach(titulo => {
 });
 
 const servicios = [
-    { titulo: "Lavado",   precio: 8000,  img: "img/auto1.jpg" },
-    { titulo: "Pulido",   precio: 15000, img: "img/auto2.png" },
-    { titulo: "Encerado", precio: 12000, img: "img/auto3.webp" }
+    { titulo: "Anillos", img: "img/Anillos2.jpg" },
+    { titulo: "Collares y Cadenas",  img: "img/Collares2.jpg" },
+    { titulo: "Accesorios", img: "img/PulseraYpendientes2.jpg" }
   // agrega más objetos hasta tener las seis tarjetas
 ];
 
